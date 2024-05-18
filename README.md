@@ -10,7 +10,7 @@
 
 - 🔭 I just upload my github repository: [Click Here !!!][repo]!
 - 🌱 I’m currently learning everything 😆
-- 🥅 2023 Goals: Improve my programming skills
+- 🥅 2024 Goals: Improve my programming skills
 - ⚡ I’m looking to collaborate with other people
 - 🤖 I'm interest data science, machine learning, deep learning and artificial intelligence
 
